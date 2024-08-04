@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*/
+!i3/**
+!i3status/**
+!nvim/**
+!picom/**
+!rofi/**
+
